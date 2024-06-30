@@ -1,4 +1,6 @@
-![Output Image2](https://github.com/Anjali1751/Extracting-data-of-scanned-images/assets/113734082/e6c871a8-efe4-44a3-bcd7-e6713fff4809)
-![original Image](https://github.com/Anjali1751/Extracting-data-of-scanned-images/assets/113734082/aab91c61-df05-4dad-af16-07b39e167e22)
-![Edge detection](https://github.com/Anjali1751/Extracting-data-of-scanned-images/assets/113734082/5b832168-d53d-469c-8f9c-3de4f257e713)
-![Edge 2](https://github.com/Anjali1751/Extracting-data-of-scanned-images/assets/113734082/318f85be-01b9-4383-bdcf-ce831e7a38ac)
+Developed a system using Flask and OpenCV libraries to extract data from scanned document images.
+• Trained a machine learning model on a pre-labeled dataset to accurately identify and extract relevant data from images.
+• Utilized OpenCV for image preprocessing, including noise reduction, thresholding, and contour detection to enhance data 
+extraction accuracy.
+• Deployed the system using Flask to create a user-friendly interface for uploading and processing scanned images.
+• Achieved high accuracy in data extraction through iterative model training and optimization.
